@@ -1,7 +1,7 @@
-url: http://signal.netbird.uno:9090/health
+url: signal.netbird.uno
 status: down
 code: 0
 responseTime: 0
-lastUpdated: 2025-11-12T05:09:17.375Z
+lastUpdated: 2025-11-12T05:15:32.881Z
 startTime: 2025-11-12T05:09:17.369Z
 generator: Upptime <https://github.com/upptime/upptime>

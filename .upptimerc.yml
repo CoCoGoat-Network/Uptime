@@ -15,10 +15,13 @@ sites:
     port: 3478
     check: "tcp-ping"
   - name: Signal Service
-    url: http://signal.netbird.uno:9090/health
+    url: signal.netbird.uno
+    port: 9090
     check: "tcp-ping"
   - name: Relay Service - Guangzhou
-    url: http://relay.mc164.cn:9000/health
+    url: relay.netbird.uno
+    port: 9000
+    check: "tcp-ping"
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

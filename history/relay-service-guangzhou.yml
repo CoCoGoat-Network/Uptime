@@ -1,7 +1,7 @@
-url: http://relay.mc164.cn:9000/health
-status: down
-code: 503
-responseTime: 1053
-lastUpdated: 2025-11-12T05:09:20.978Z
+url: relay.netbird.uno
+status: up
+code: 200
+responseTime: 195
+lastUpdated: 2025-11-12T05:15:34.204Z
 startTime: 2025-11-12T03:57:49.529Z
 generator: Upptime <https://github.com/upptime/upptime>

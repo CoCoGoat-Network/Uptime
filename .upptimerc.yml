@@ -7,22 +7,26 @@ sites:
     url: https://app.netbird.uno
   - name: Management Service
     url: https://app.netbird.uno/api
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: STUN Server
-    url: http://stun.netbird.uno
+    url: stun.netbird.uno
     port: 3478
     check: "tcp-ping"
-  - name: Relay Service - Guangzhou
-    url: http://relay.netbird.uno
-    port: 10000
+  - name: Signal Service
+    url: http://signal.netbird.uno:9090/health
     check: "tcp-ping"
+  - name: Relay Service - Guangzhou
+    url: http://relay.mc164.cn:9000/health
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.netbird.uno
   # baseUrl: /your-repo-name
-  logoUrl: https://netbird.uno/logo.png
+  logoUrl: https://files.ganyu.rocks/logo.png
   name: NetBird Status
-  introTitle: "此页面显示 NetBird 各项服务的运行状态 | This page shows the status of various NetBird services"
+  introTitle: "Netbird Service Status"
   introMessage: 欢迎来到在线SLA竞技大赛!!!
   navbar:
     - title: Status

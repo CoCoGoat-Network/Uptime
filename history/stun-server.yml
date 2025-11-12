@@ -1,7 +1,7 @@
-url: http://stun.netbird.uno
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-12T03:57:47.756Z
+url: stun.netbird.uno
+status: up
+code: 200
+responseTime: 248
+lastUpdated: 2025-11-12T05:09:14.604Z
 startTime: 2025-11-12T03:57:47.749Z
 generator: Upptime <https://github.com/upptime/upptime>

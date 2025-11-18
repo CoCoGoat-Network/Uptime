@@ -4,19 +4,19 @@
     "url": "https://app.netbird.uno",
     "icon": "https://icons.duckduckgo.com/ip3/app.netbird.uno.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 327,
-    "timeDay": 207,
-    "timeWeek": 327,
-    "timeMonth": 327,
-    "timeYear": 327,
+    "status": "up",
+    "uptime": "98.46%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "98.46%",
+    "time": 333,
+    "timeDay": 250,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2025-11-18": 61
+      "2025-11-18": 143
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.netbird.uno/api",
     "icon": "https://icons.duckduckgo.com/ip3/app.netbird.uno.ico",
     "slug": "management-service",
-    "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 69,
-    "timeDay": 17,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "90.02%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.45%",
+    "time": 68,
+    "timeDay": 25,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {
-      "2025-11-18": 61
+      "2025-11-18": 143
     }
   },
   {

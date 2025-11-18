@@ -1,7 +1,7 @@
 url: https://app.netbird.uno
-status: up
-code: 200
-responseTime: 107
-lastUpdated: 2025-11-17T23:22:20.439Z
+status: down
+code: 500
+responseTime: 345
+lastUpdated: 2025-11-18T11:56:06.851Z
 startTime: 2025-11-12T03:57:44.917Z
 generator: Upptime <https://github.com/upptime/upptime>

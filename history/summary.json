@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
-    "time": 369,
-    "timeDay": 354,
-    "timeWeek": 349,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "time": 366,
+    "timeDay": 325,
+    "timeWeek": 338,
+    "timeMonth": 366,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-11-18": 143
     }
@@ -30,34 +30,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
-    "time": 94,
-    "timeDay": 156,
-    "timeWeek": 120,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "time": 93,
+    "timeDay": 126,
+    "timeWeek": 112,
+    "timeMonth": 93,
+    "timeYear": 93,
     "dailyMinutesDown": {
       "2025-11-18": 143
     }
   },
   {
     "name": "SSO Service",
-    "url": "https://sso.ganyu.rocks",
+    "url": "https://sso.ganyu.rocks/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/sso.ganyu.rocks.ico",
     "slug": "sso-service",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 259,
-    "timeDay": 259,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
-    "dailyMinutesDown": {
-      "2025-12-10": 183
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 512,
+    "timeDay": 512,
+    "timeWeek": 512,
+    "timeMonth": 512,
+    "timeYear": 512,
+    "dailyMinutesDown": {}
   },
   {
     "name": "STUN Server",
@@ -70,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 402,
-    "timeWeek": 311,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 252,
+    "timeDay": 408,
+    "timeWeek": 324,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 203,
-    "timeWeek": 197,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "time": 188,
+    "timeDay": 192,
+    "timeWeek": 193,
+    "timeMonth": 188,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 265,
-    "timeWeek": 252,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "time": 250,
+    "timeDay": 253,
+    "timeWeek": 248,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]

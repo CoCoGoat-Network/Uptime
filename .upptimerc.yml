@@ -11,7 +11,7 @@ sites:
       - 200
       - 404
   - name: SSO Service
-    url: https://sso.ganyu.rocks
+    url: https://sso.ganyu.rocks/.well-known/openid-configuration
     expectedStatusCodes:
       - 200
       - 302

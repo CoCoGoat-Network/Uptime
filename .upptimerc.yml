@@ -12,6 +12,10 @@ sites:
       - 404
   - name: SSO Service
     url: https://sso.ganyu.rocks
+    expectedStatusCodes:
+      - 200
+      - 302
+      - 301
   - name: STUN Server
     url: stun.netbird.uno
     port: 3478

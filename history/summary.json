@@ -44,19 +44,19 @@
     "url": "https://sso.ganyu.rocks/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/sso.ganyu.rocks.ico",
     "slug": "sso-service",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 775,
-    "timeDay": 1169,
-    "timeWeek": 775,
-    "timeMonth": 775,
-    "timeYear": 775,
+    "status": "up",
+    "uptime": "97.45%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "97.45%",
+    "uptimeYear": "97.45%",
+    "time": 804,
+    "timeDay": 1097,
+    "timeWeek": 804,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {
-      "2025-12-11": 0
+      "2025-12-11": 46
     }
   },
   {

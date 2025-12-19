@@ -1,7 +1,7 @@
 url: https://sso.ganyu.rocks/.well-known/openid-configuration
 status: up
 code: 200
-responseTime: 1016
-lastUpdated: 2025-12-18T23:32:13.869Z
+responseTime: 768
+lastUpdated: 2025-12-19T23:23:19.039Z
 startTime: 2025-12-10T12:46:51.972Z
 generator: Upptime <https://github.com/upptime/upptime>

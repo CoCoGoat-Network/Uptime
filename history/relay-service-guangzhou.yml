@@ -1,7 +1,7 @@
 url: relay.netbird.uno
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-02T10:01:56.047Z
+status: up
+code: 200
+responseTime: 229
+lastUpdated: 2026-02-02T11:02:05.829Z
 startTime: 2025-11-12T03:57:49.529Z
 generator: Upptime <https://github.com/upptime/upptime>
